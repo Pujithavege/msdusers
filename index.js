@@ -20,8 +20,6 @@ const PORT=3001;
 
 app.listen(PORT, () => console.log(`Server is Running ${PORT}`));
 
-// Serve static files from the public
-directory
 
 //GET All USERS
 
